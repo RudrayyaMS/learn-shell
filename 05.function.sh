@@ -5,7 +5,11 @@ xyz() {
   echo second argument - $2
   echo all argument - $*
   echo No of argument - $#
+  echo value of a - $a
+  b =30
 }
 
 ##calling a function
 xyz 123 456
+a = 20
+echo value of b - $b
