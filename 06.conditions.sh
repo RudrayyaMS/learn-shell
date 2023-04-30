@@ -7,4 +7,4 @@ fi
 
 if [ $(string) -eq abc ]; then
     echo string is abc
-fi 
+fi
