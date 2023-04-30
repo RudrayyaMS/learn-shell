@@ -5,6 +5,6 @@ if [ $(number) -eq 5 ]; then # then can go in next line as well , also semi colo
     echo number is 5
 fi
 
-if [ $(string) -eq abc ]; then
+if [ $(string) == abc ]; then
     echo string is abc
 fi
