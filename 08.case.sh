@@ -4,6 +4,8 @@
 # *) command ;;
 #esac
 
+read -p "Enter Course name : "name
+
 case $name in
   Devops)
     echo Welcome to Devops Training
