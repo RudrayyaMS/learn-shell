@@ -17,3 +17,5 @@
 echo -e "\e[31m hello in red color \e[0m"
 echo hello world
 
+# some times we need to print multiple lines
+echo -e "line1\nline2\nline3"
